@@ -1,219 +1,158 @@
 {
   "site": {
-    "title": "Arjun Mehta — Founder & Product Builder",
-    "description": "Arjun Mehta is a founder and product builder focused on building useful software products for modern teams.",
-    "url": "https://arjunmehta.com",
-    "ogImage": "https://images.pexels.com/photos/31647492/pexels-photo-31647492.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    "favicon": "/images/favicon.png",
+    "title": "Akansh Tyagi — QA Automation Engineer",
+    "description": "Akansh Tyagi is a QA Automation Engineer specializing in Selenium, Playwright, Python, API testing, payment and POS integrations.",
+    "url": "",
+    "ogImage": "",
+    "favicon": "",
     "language": "en",
-    "noIndex": false
+    "noIndex": true
   },
-
   "person": {
-    "name": "Arjun Mehta",
-    "firstName": "Arjun",
-    "role": "Founder & Product Builder",
-    "personType": "Founder",
-    "tagline": "Building useful products at the intersection of technology, design and business.",
-    "headline": "I build products that turn complicated problems into simple experiences.",
-    "shortBio": "Founder and product builder with a focus on SaaS, developer tools and products that help teams work better.",
-    "location": "Bengaluru, India",
-    "profileImage": "https://images.pexels.com/photos/12903019/pexels-photo-12903019.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    "availability": "Open to selected conversations",
+    "name": "Akansh Tyagi",
+    "firstName": "Akansh",
+    "role": "QA Automation Engineer",
+    "personType": "QA Automation Engineer",
+    "tagline": "QA Automation | Selenium | Playwright | Python | API Testing | Payment & POS Integrations",
+    "headline": "Building reliable automated testing workflows for complex web, mobile, payment, and POS systems.",
+    "shortBio": "I work across building intelligent systems, designing recommendation logic, and automating analysis. I enjoy creating AI-driven solutions, stitching data into decisions, and turning messy problems into clean, automated workflows.",
+    "location": "Gurugram, Haryana, India",
+    "profileImage": "",
+    "availability": "",
     "pronouns": ""
   },
-
   "hero": {
     "enabled": true,
-    "eyebrow": "Founder · Builder · Product",
-    "headline": "Building products that make complex things simple.",
-    "description": "I'm Arjun, a founder and product builder focused on creating thoughtful software products for modern teams.",
+    "eyebrow": "QA Automation · Testing · Integrations",
+    "headline": "Building reliable automated testing workflows for complex systems.",
+    "description": "QA Automation Engineer experienced with Selenium, Playwright, Python, API testing, payment gateways, POS integrations, and end-to-end product validation.",
     "primaryCta": {
-      "label": "View my work",
-      "url": "#projects"
+      "label": "View my experience",
+      "url": "#experience"
     },
     "secondaryCta": {
       "label": "Get in touch",
       "url": "#contact"
     },
-    "showImage": true,
+    "showImage": false,
     "showSocials": true,
-    "showAvailability": true
+    "showAvailability": false
   },
-
   "about": {
     "enabled": true,
     "sectionTitle": "About",
     "paragraphs": [
-      "I've spent the last several years building products from the ground up — from early ideas and prototypes to products used by growing teams.",
-      "I enjoy working across product, technology and business, especially when the problem is difficult enough to require both strategic thinking and hands-on execution."
+      "I work across building intelligent systems, designing recommendation logic, and automating analysis. I enjoy creating AI-driven solutions, stitching data into decisions, and turning messy problems into clean, automated workflows.",
+      "My mindset is simple: Understand Deeply, Build Smartly, Fix Early, Ship Confidently."
     ],
     "highlights": [
-      "Founder",
-      "Product Strategy",
-      "SaaS",
-      "Technology",
-      "Early-stage startups"
+      "Selenium",
+      "Playwright",
+      "Python",
+      "API Testing",
+      "Payment Gateway Testing",
+      "POS Integrations",
+      "Regression Testing",
+      "STLC"
     ]
   },
-
   "stats": {
     "enabled": true,
     "items": [
-      { "value": "8+", "label": "Years building products" },
-      { "value": "3", "label": "Companies founded" },
-      { "value": "50K+", "label": "Users reached" },
-      { "value": "12", "label": "Markets served" }
+      {
+        "value": "90+",
+        "label": "Jira tasks released to production"
+      },
+      {
+        "value": "20",
+        "label": "Restaurant mobile apps tested"
+      },
+      {
+        "value": "20%",
+        "label": "Reported reduction in transaction failures"
+      },
+      {
+        "value": "30",
+        "label": "Jira tasks tested during QA internship"
+      }
     ]
   },
-
   "experience": {
     "enabled": true,
     "sectionTitle": "Experience",
     "items": [
       {
-        "company": "Northstar Labs",
-        "role": "Founder & CEO",
-        "period": "2022 — Present",
-        "description": "Founded and scaled a SaaS platform helping distributed teams manage internal workflows and knowledge.",
-        "logo": "",
-        "link": "https://northstarlabs.com",
-        "location": "Bengaluru, India",
-        "current": true
-      },
-      {
-        "company": "Orbit Technologies",
-        "role": "Head of Product",
-        "period": "2019 — 2022",
-        "description": "Led product strategy and development across a portfolio of B2B software products.",
-        "logo": "",
-        "link": "https://orbit.example.com",
-        "location": "Bengaluru, India",
-        "current": false
-      },
-      {
-        "company": "PixelFoundry",
-        "role": "Product Designer",
-        "period": "2016 — 2019",
-        "description": "Designed digital products and experiences for early-stage startups and technology companies.",
+        "company": "Palat RestoLabs",
+        "role": "Python Automation Engineer",
+        "period": "August 2025 — August 2026",
+        "description": "Automated online ordering workflows for pickup, dine-in, home delivery, and gift cards using Selenium and Playwright. Built and maintained automation for Stripe and JCC Pay, and performed UI, functional, regression, smoke, integration, and end-to-end testing across ordering, checkout, payment, POS, loyalty, and third-party integrations. Tested approximately 20 restaurant mobile apps across Android and iOS, investigated production issues, supported onboarding and go-live validation, and contributed to 90+ Jira tasks released to production. Contributed to improved payment-flow stability, with a reported 20% reduction in transaction failures.",
         "logo": "",
         "link": "",
-        "location": "Mumbai, India",
+        "location": "Noida",
+        "current": false
+      },
+      {
+        "company": "Palat RestoLabs",
+        "role": "QA Intern",
+        "period": "February 2025 — August 2025",
+        "description": "Performed manual, functional, regression, smoke, and integration testing across web and mobile environments. Tested approximately 30 Jira tasks covering ordering, checkout, payments, POS integrations, onboarding, and migration workflows. Tested payment gateways including Authorize.net, FreedomPay, JCC, Worldpay, CardConnect, and Stripe. Validated hosted and iframe payment flows, saved cards, delivery fees, address book, store availability, tips, checkout functionality, and V2 to V3.1 migration requirements.",
+        "logo": "",
+        "link": "",
+        "location": "Noida, Uttar Pradesh, India",
+        "current": false
+      },
+      {
+        "company": "Jamsetji Tata Society for Innovation and Entrepreneurship (JITSIE), IIT Madras",
+        "role": "Market Research Analyst Intern",
+        "period": "November 2024 — January 2025",
+        "description": "",
+        "logo": "",
+        "link": "",
+        "location": "Delhi, India",
         "current": false
       }
     ]
   },
-
   "projects": {
-    "enabled": true,
+    "enabled": false,
     "sectionTitle": "Selected Work",
-    "items": [
-      {
-        "title": "Northstar",
-        "description": "A collaborative workspace for distributed teams to organize knowledge, processes and internal operations.",
-        "image": "https://images.pexels.com/photos/6804068/pexels-photo-6804068.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "link": "https://northstarlabs.com",
-        "tags": ["SaaS", "B2B", "Productivity"],
-        "featured": true
-      },
-      {
-        "title": "Signal",
-        "description": "A lightweight analytics platform that helps product teams understand user behavior.",
-        "image": "https://images.pexels.com/photos/34069/pexels-photo.jpg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "link": "https://signal.example.com",
-        "tags": ["Analytics", "Product", "SaaS"],
-        "featured": true
-      },
-      {
-        "title": "LaunchKit",
-        "description": "A toolkit for founders launching their first software product.",
-        "image": "https://images.pexels.com/photos/18104/pexels-photo.jpg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "link": "https://launchkit.example.com",
-        "tags": ["Startup", "Tools", "Product"],
-        "featured": false
-      }
-    ]
+    "items": []
   },
-
   "products": {
-    "enabled": true,
+    "enabled": false,
     "sectionTitle": "Products",
-    "description": "A few things I've built.",
-    "items": [
-      {
-        "name": "Northstar",
-        "description": "Workspace software for modern teams.",
-        "image": "https://images.pexels.com/photos/16323454/pexels-photo-16323454.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "url": "https://northstarlabs.com",
-        "status": "Live",
-        "tags": ["SaaS", "B2B"]
-      },
-      {
-        "name": "LaunchKit",
-        "description": "Tools and templates for founders launching software products.",
-        "image": "https://images.pexels.com/photos/7594644/pexels-photo-7594644.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "url": "https://launchkit.example.com",
-        "status": "Building",
-        "tags": ["Founder Tools"]
-      }
-    ]
+    "description": "",
+    "items": []
   },
-
   "services": {
     "enabled": false,
     "sectionTitle": "What I Do",
     "description": "",
     "items": []
   },
-
   "writing": {
-    "enabled": true,
+    "enabled": false,
     "sectionTitle": "Writing",
-    "items": [
-      {
-        "title": "What I learned from building a SaaS company from zero",
-        "description": "Lessons from product development, hiring and finding product-market fit.",
-        "date": "2026-04-12",
-        "url": "https://example.com/article-1",
-        "image": "https://images.pexels.com/photos/7594644/pexels-photo-7594644.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "publication": "Arjun's Newsletter"
-      },
-      {
-        "title": "Why simple products are harder to build",
-        "description": "A look at the design and product decisions behind simple software.",
-        "date": "2026-02-03",
-        "url": "https://example.com/article-2",
-        "image": "https://images.pexels.com/photos/187107/pexels-photo-187107.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "publication": "Arjun's Newsletter"
-      }
-    ]
+    "items": []
   },
-
   "achievements": {
     "enabled": true,
-    "sectionTitle": "Highlights",
+    "sectionTitle": "Certifications & Recognition",
     "items": [
       {
-        "title": "Founded 3 companies",
-        "description": "Built and launched products across SaaS and productivity.",
-        "icon": "Rocket",
-        "value": "3"
+        "title": "Foundation Level in Programming and Data Science",
+        "description": "",
+        "icon": "Award",
+        "value": ""
       },
       {
-        "title": "50K+ users",
-        "description": "Products have reached users across multiple markets.",
-        "icon": "Users",
-        "value": "50K+"
-      },
-      {
-        "title": "Featured in industry publications",
-        "description": "Work has been covered by technology and startup publications.",
-        "icon": "Newspaper",
+        "title": "DSATHON 2.0",
+        "description": "",
+        "icon": "Trophy",
         "value": ""
       }
     ]
   },
-
   "investment": {
     "enabled": false,
     "sectionTitle": "Investing",
@@ -222,138 +161,128 @@
     "thesis": [],
     "portfolio": []
   },
-
   "caseStudies": {
     "enabled": false,
     "sectionTitle": "Case Studies",
     "items": []
   },
-
   "skills": {
     "enabled": true,
-    "sectionTitle": "Areas I Work In",
+    "sectionTitle": "Top Skills",
     "items": [
-      "Product Strategy",
-      "Product Development",
-      "SaaS",
-      "Startups",
-      "Product Design",
-      "Growth",
-      "Team Building",
-      "Go-to-Market"
+      "Smoke Testing",
+      "Regression Testing",
+      "Software Testing Life Cycle (STLC)",
+      "Selenium",
+      "Playwright",
+      "Python",
+      "API Testing",
+      "Payment Gateway Testing",
+      "POS Integrations"
     ]
   },
-
   "education": {
     "enabled": true,
     "sectionTitle": "Education",
     "items": [
       {
-        "institution": "Indian Institute of Technology",
-        "degree": "B.Tech in Computer Science",
-        "period": "2012 — 2016",
+        "institution": "Indian Institute of Technology, Madras",
+        "degree": "Bachelor of Science (BS), Data Science and Applications",
+        "period": "2022 — 2026",
         "description": "",
         "logo": "",
-        "link": "https://example.com"
-      }
-    ]
-  },
-
-  "testimonials": {
-    "enabled": true,
-    "sectionTitle": "What People Say",
-    "items": [
-      {
-        "quote": "Arjun combines product intuition with the ability to actually ship. He is one of the rare founders who can move between strategy and execution effortlessly.",
-        "author": "Rahul Sharma",
-        "role": "Founder",
-        "company": "Acme",
-        "image": "https://images.pexels.com/photos/5308640/pexels-photo-5308640.jpeg?auto=compress&cs=tinysrgb&h=200&w=200",
-        "link": "https://linkedin.com"
+        "link": ""
       },
       {
-        "quote": "Working with Arjun completely changed how our team approached product development.",
-        "author": "Priya Kapoor",
-        "role": "VP Product",
-        "company": "Example Co.",
-        "image": "https://images.pexels.com/photos/25651531/pexels-photo-25651531.jpeg?auto=compress&cs=tinysrgb&h=200&w=200",
-        "link": "https://linkedin.com"
+        "institution": "Dr. A.P.J. Abdul Kalam Technical University (AKTU), Lucknow",
+        "degree": "Bachelor of Technology (BTech), Computer Science",
+        "period": "August 2021 — August 2025",
+        "description": "",
+        "logo": "",
+        "link": ""
       }
     ]
   },
-
+  "testimonials": {
+    "enabled": false,
+    "sectionTitle": "What People Say",
+    "items": []
+  },
   "socialProof": {
-    "enabled": true,
-    "title": "Previously worked with",
-    "logos": [
-      { "name": "Northstar Labs", "image": "", "url": "https://northstarlabs.com" },
-      { "name": "Orbit Technologies", "image": "", "url": "https://orbit.example.com" },
-      { "name": "PixelFoundry", "image": "", "url": "" }
-    ]
+    "enabled": false,
+    "title": "",
+    "logos": []
   },
-
   "newsletter": {
-    "enabled": true,
-    "sectionTitle": "Join my newsletter",
-    "description": "Occasional notes on startups, products and building on the internet.",
-    "placeholder": "Enter your email",
-    "actionUrl": "https://example.com/subscribe",
-    "buttonLabel": "Subscribe"
+    "enabled": false,
+    "sectionTitle": "",
+    "description": "",
+    "placeholder": "",
+    "actionUrl": "",
+    "buttonLabel": ""
   },
-
   "faq": {
     "enabled": false,
     "sectionTitle": "Frequently Asked Questions",
     "items": []
   },
-
   "contact": {
     "enabled": true,
     "sectionTitle": "Let's Connect",
-    "headline": "Have an interesting idea?",
-    "description": "I'm always interested in meeting thoughtful people, exploring interesting problems and discussing new ideas.",
-    "email": "hello@arjunmehta.com",
-    "ctaLabel": "Send me an email"
+    "headline": "Interested in working together?",
+    "description": "For opportunities, collaborations, or professional conversations, reach out via email or LinkedIn.",
+    "email": "akanshtyagi70@gmail.com",
+    "ctaLabel": "Email me"
   },
-
   "socials": {
-    "linkedin": "https://linkedin.com/in/arjunmehta",
-    "twitter": "https://x.com/arjunmehta",
-    "github": "https://github.com/arjunmehta",
+    "linkedin": "https://www.linkedin.com/in/akansh24",
+    "twitter": "",
+    "github": "https://github.com/akansh-24",
     "instagram": "",
     "youtube": "",
     "threads": "",
-    "substack": "https://arjunmehta.substack.com",
-    "website": "https://arjunmehta.com",
-    "email": "mailto:hello@arjunmehta.com"
+    "substack": "",
+    "website": "",
+    "email": "mailto:akanshtyagi70@gmail.com"
   },
-
   "navigation": {
     "enabled": true,
     "items": [
-      { "label": "About", "target": "#about" },
-      { "label": "Experience", "target": "#experience" },
-      { "label": "Work", "target": "#projects" },
-      { "label": "Writing", "target": "#writing" },
-      { "label": "Contact", "target": "#contact" }
+      {
+        "label": "About",
+        "target": "#about"
+      },
+      {
+        "label": "Experience",
+        "target": "#experience"
+      },
+      {
+        "label": "Skills",
+        "target": "#skills"
+      },
+      {
+        "label": "Education",
+        "target": "#education"
+      },
+      {
+        "label": "Contact",
+        "target": "#contact"
+      }
     ]
   },
-
   "footer": {
-    "text": "Building useful things on the internet.",
-    "copyright": "© 2026 Arjun Mehta",
+    "text": "QA Automation · Testing · Engineering",
+    "copyright": "© 2026 Akansh Tyagi",
     "showSocials": true
   },
-
   "theme": {
-    "accentColor": "#635BFF",
-    "accentColorSecondary": "#8B5CF6",
+    "accentColor": "#2563EB",
+    "accentColorSecondary": "#06B6D4",
     "font": "Inter",
     "defaultMode": "light",
     "darkMode": true,
     "borderRadius": "large"
   },
-
   "features": {
     "animations": true,
     "scrollReveal": true,
