@@ -1,7 +1,7 @@
 {
   "site": {
-    "title": "Akansh Tyagi — QA Automation Engineer",
-    "description": "Akansh Tyagi is a QA Automation Engineer specializing in Selenium, Playwright, Python, API testing, payment and POS integrations.",
+    "title": "Saurabh Tripathi — Analytics Intern",
+    "description": "Saurabh Tripathi is an analytics professional with experience in SQL, Python analytics, inventory analysis, forecasting, and data-driven recommendations.",
     "url": "",
     "ogImage": "",
     "favicon": "",
@@ -9,23 +9,23 @@
     "noIndex": true
   },
   "person": {
-    "name": "Akansh Tyagi",
-    "firstName": "Akansh",
-    "role": "QA Automation Engineer",
-    "personType": "QA Automation Engineer",
-    "tagline": "QA Automation | Selenium | Playwright | Python | API Testing | Payment & POS Integrations",
-    "headline": "Building reliable automated testing workflows for complex web, mobile, payment, and POS systems.",
-    "shortBio": "I work across building intelligent systems, designing recommendation logic, and automating analysis. I enjoy creating AI-driven solutions, stitching data into decisions, and turning messy problems into clean, automated workflows.",
-    "location": "Gurugram, Haryana, India",
+    "name": "Saurabh Tripathi",
+    "firstName": "Saurabh",
+    "role": "Analytics Intern",
+    "personType": "Analytics Intern",
+    "tagline": "Data Science | SQL | Python | Analytics | Data Visualization",
+    "headline": "Using SQL and Python analytics to solve business problems and turn data into actionable insights.",
+    "shortBio": "I work on data analytics, using advanced SQL and Python to analyze large datasets, identify business inefficiencies, build forecasting models, and deliver data-driven recommendations and dashboards.",
+    "location": "Ghaziabad, Uttar Pradesh, India",
     "profileImage": "",
     "availability": "",
     "pronouns": ""
   },
   "hero": {
     "enabled": true,
-    "eyebrow": "QA Automation · Testing · Integrations",
-    "headline": "Building reliable automated testing workflows for complex systems.",
-    "description": "QA Automation Engineer experienced with Selenium, Playwright, Python, API testing, payment gateways, POS integrations, and end-to-end product validation.",
+    "eyebrow": "Analytics · Data Science · SQL",
+    "headline": "Turning data into actionable business insights.",
+    "description": "Analytics professional with experience in advanced SQL, Python analytics, inventory analysis, forecasting, and data-driven recommendations.",
     "primaryCta": {
       "label": "View my experience",
       "url": "#experience"
@@ -42,73 +42,46 @@
     "enabled": true,
     "sectionTitle": "About",
     "paragraphs": [
-      "I work across building intelligent systems, designing recommendation logic, and automating analysis. I enjoy creating AI-driven solutions, stitching data into decisions, and turning messy problems into clean, automated workflows.",
-      "My mindset is simple: Understand Deeply, Build Smartly, Fix Early, Ship Confidently."
+      "I work on data analytics and data science projects, using advanced SQL and Python to analyze large datasets and identify business inefficiencies.",
+      "I enjoy building forecasting models, creating dashboards, and translating data into recommendations that can support better business decisions."
     ],
     "highlights": [
-      "Selenium",
-      "Playwright",
+      "Advanced SQL",
       "Python",
-      "API Testing",
-      "Payment Gateway Testing",
-      "POS Integrations",
-      "Regression Testing",
-      "STLC"
+      "Data Analytics",
+      "Inventory Analytics",
+      "Forecasting",
+      "Data Visualization",
+      "Power BI",
+      "Excel"
     ]
   },
   "stats": {
-    "enabled": true,
-    "items": [
-      {
-        "value": "90+",
-        "label": "Jira tasks released to production"
-      },
-      {
-        "value": "20",
-        "label": "Restaurant mobile apps tested"
-      },
-      {
-        "value": "20%",
-        "label": "Reported reduction in transaction failures"
-      },
-      {
-        "value": "30",
-        "label": "Jira tasks tested during QA internship"
-      }
-    ]
+    "enabled": false,
+    "items": []
   },
   "experience": {
     "enabled": true,
     "sectionTitle": "Experience",
     "items": [
       {
-        "company": "Palat RestoLabs",
-        "role": "Python Automation Engineer",
-        "period": "August 2025 — August 2026",
-        "description": "Automated online ordering workflows for pickup, dine-in, home delivery, and gift cards using Selenium and Playwright. Built and maintained automation for Stripe and JCC Pay, and performed UI, functional, regression, smoke, integration, and end-to-end testing across ordering, checkout, payment, POS, loyalty, and third-party integrations. Tested approximately 20 restaurant mobile apps across Android and iOS, investigated production issues, supported onboarding and go-live validation, and contributed to 90+ Jira tasks released to production. Contributed to improved payment-flow stability, with a reported 20% reduction in transaction failures.",
-        "logo": "",
-        "link": "",
-        "location": "Noida",
-        "current": false
-      },
-      {
-        "company": "Palat RestoLabs",
-        "role": "QA Intern",
-        "period": "February 2025 — August 2025",
-        "description": "Performed manual, functional, regression, smoke, and integration testing across web and mobile environments. Tested approximately 30 Jira tasks covering ordering, checkout, payments, POS integrations, onboarding, and migration workflows. Tested payment gateways including Authorize.net, FreedomPay, JCC, Worldpay, CardConnect, and Stripe. Validated hosted and iframe payment flows, saved cards, delivery fees, address book, store availability, tips, checkout functionality, and V2 to V3.1 migration requirements.",
-        "logo": "",
-        "link": "",
-        "location": "Noida, Uttar Pradesh, India",
-        "current": false
-      },
-      {
-        "company": "Jamsetji Tata Society for Innovation and Entrepreneurship (JITSIE), IIT Madras",
-        "role": "Market Research Analyst Intern",
-        "period": "November 2024 — January 2025",
+        "company": "CoLab",
+        "role": "Analytics Intern",
+        "period": "January 2026 — March 2026",
         "description": "",
         "logo": "",
         "link": "",
-        "location": "Delhi, India",
+        "location": "Bengaluru",
+        "current": false
+      },
+      {
+        "company": "Consulting & Analytics Club, IIT Guwahati",
+        "role": "Summer Project",
+        "period": "April 2025 — June 2025",
+        "description": "Worked on the project titled 'Solving Inventory Inefficiencies using Advanced SQL Analytics'. Used advanced SQL and Python analytics on a large retail dataset to identify and solve inventory issues such as stockouts and overstocking, built a forecasting accuracy model, and delivered data-driven recommendations and dashboards to improve inventory management across stores.",
+        "logo": "",
+        "link": "",
+        "location": "IIT Guwahati",
         "current": false
       }
     ]
@@ -140,15 +113,21 @@
     "sectionTitle": "Certifications & Recognition",
     "items": [
       {
-        "title": "Foundation Level in Programming and Data Science",
+        "title": "Certificate of Participation in SUSTAIN-A-THON 2024: Sustainability Hackathon by Indian Oil Corporation Ltd.",
         "description": "",
         "icon": "Award",
         "value": ""
       },
       {
-        "title": "DSATHON 2.0",
+        "title": "Mastering Data Visualization By Power BI and Excel",
         "description": "",
-        "icon": "Trophy",
+        "icon": "Award",
+        "value": ""
+      },
+      {
+        "title": "Basics of AI and Promting By Ansh Mehra",
+        "description": "",
+        "icon": "Award",
         "value": ""
       }
     ]
@@ -170,15 +149,14 @@
     "enabled": true,
     "sectionTitle": "Top Skills",
     "items": [
-      "Smoke Testing",
-      "Regression Testing",
-      "Software Testing Life Cycle (STLC)",
-      "Selenium",
-      "Playwright",
+      "Advanced SQL",
       "Python",
-      "API Testing",
-      "Payment Gateway Testing",
-      "POS Integrations"
+      "Data Analytics",
+      "Data Visualization",
+      "Power BI",
+      "Excel",
+      "Inventory Analytics",
+      "Forecasting"
     ]
   },
   "education": {
@@ -187,16 +165,24 @@
     "items": [
       {
         "institution": "Indian Institute of Technology, Madras",
-        "degree": "Bachelor of Science (BS), Data Science and Applications",
-        "period": "2022 — 2026",
+        "degree": "Bachelor in Science (BS), Data Science And Application",
+        "period": "September 2023 — September 2027",
         "description": "",
         "logo": "",
         "link": ""
       },
       {
-        "institution": "Dr. A.P.J. Abdul Kalam Technical University (AKTU), Lucknow",
-        "degree": "Bachelor of Technology (BTech), Computer Science",
-        "period": "August 2021 — August 2025",
+        "institution": "ABESIT",
+        "degree": "Bachelor of Technology - BTech, Computer science engineering with specialization in Data science",
+        "period": "June 2023 — June 2027",
+        "description": "",
+        "logo": "",
+        "link": ""
+      },
+      {
+        "institution": "Three Dots Sewa Marg Public School - India",
+        "degree": "",
+        "period": "",
         "description": "",
         "logo": "",
         "link": ""
@@ -231,19 +217,19 @@
     "sectionTitle": "Let's Connect",
     "headline": "Interested in working together?",
     "description": "For opportunities, collaborations, or professional conversations, reach out via email or LinkedIn.",
-    "email": "akanshtyagi70@gmail.com",
+    "email": "22f3001156@ds.study.iitm.ac.in",
     "ctaLabel": "Email me"
   },
   "socials": {
-    "linkedin": "https://www.linkedin.com/in/akansh24",
+    "linkedin": "https://www.linkedin.com/in/saurabh-tripathi-93772b249",
     "twitter": "",
-    "github": "https://github.com/akansh-24",
+    "github": "",
     "instagram": "",
     "youtube": "",
     "threads": "",
     "substack": "",
-    "website": "",
-    "email": "mailto:akanshtyagi70@gmail.com"
+    "website": "https://www.linkedin.com/in/saurabh-tripathi-93772b249",
+    "email": "mailto:22f3001156@ds.study.iitm.ac.in"
   },
   "navigation": {
     "enabled": true,
@@ -271,8 +257,8 @@
     ]
   },
   "footer": {
-    "text": "QA Automation · Testing · Engineering",
-    "copyright": "© 2026 Akansh Tyagi",
+    "text": "Analytics · Data Science · Engineering",
+    "copyright": "© 2026 Saurabh Tripathi",
     "showSocials": true
   },
   "theme": {
